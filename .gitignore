@@ -1,0 +1,102 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.DS_Store
+data
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment directories
+env/
+venv/
+ENV/
+VENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code files
+.vscode/
+.history/
+
+# PyCharm files
+.idea/
+
+# Logs and temporary files
+*.log
+*.out
+*.err
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Package files
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Python-specific packaging
+pip-wheel-metadata/
+*.par
+
+# Data files
+*.csv
+*.h5
+*.json
+*.dat
+*.db
+*.tfrecord
+*.npz
+
+# Large model files
+*.ckpt
+*.h5
+*.pth
+*.onnx
+*.pb
+
+# TensorBoard log files
+logs/
+tensorboard/
+
+# Dataset folders
+datasets/
+data/
+
+# Model directories
+models/
+checkpoints/
+
+# Temporary and backup files
+*.bak
+*.tmp
+*.old
+
+# Compiled object files
+*.o
+*.obj
+*.dll
+*.class
+*.jar
+
+# Machine learning artifacts
+runs/
+saved_models/
+*.pkl
+*.joblib
+*.npy
+
+# Colab and Kaggle specific files
+*.ipynb
+.kaggle/
+.colab/
+
