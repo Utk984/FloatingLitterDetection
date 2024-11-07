@@ -1,4 +1,4 @@
-# Marine Debris Detection Using Deep Learning
+# Marine Debris (litter) Detection Using Deep Learning
 
 This project uses deep learning to automate the detection of floating marine debris, supporting autonomous systems like UAVs and USVs in real-time waste monitoring. Marine debris poses a severe threat to aquatic life and ecosystems, with millions of tons of waste entering waterways each year. Traditional debris management methods are labor-intensive and limited in scope. By leveraging advanced object detection models, this project enhances debris identification even in complex, cluttered, and varying environmental conditions.
 
