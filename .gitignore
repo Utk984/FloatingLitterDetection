@@ -94,9 +94,3 @@ saved_models/
 *.pkl
 *.joblib
 *.npy
-
-# Colab and Kaggle specific files
-*.ipynb
-.kaggle/
-.colab/
-
